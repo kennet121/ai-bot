@@ -41,6 +41,6 @@ async def check(ctx):
     else:
         await ctx.send('TIDAK ADA FILE YANG DIKIRIM')
 
-bot.run("MTEyODk4NzQ0NTk1OTA2NTcwMA.GTbu4d.i1eYOuHM-M8U_q_P4Y-U8aI_dELi_kS6OHy8MU")
+bot.run("TOKEN DISCORD")
 
 
